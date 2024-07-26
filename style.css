@@ -1,0 +1,20 @@
+body {
+    background-color: lightseagreen;
+    color: white;
+}
+
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-bottom: 2px solid white;
+}
+
+a {
+    background-color: lightcoral;
+    color: yellow;
+    text-decoration: none;
+}
